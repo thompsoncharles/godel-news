@@ -6,4 +6,4 @@
 >
 >Press tilde key (~) type "N" press enter
 >
->Set watchlist in "N" to the name of you quote monitor.  
+>Set watchlist in "N" to the name of your quote monitor.  
