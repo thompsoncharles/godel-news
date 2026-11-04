@@ -2,7 +2,7 @@
 >
 >On website: press tilde key (~) and type "QM" press enter
 >
-> and add desired ticker symbols.
+>Add desired ticker symbols.
 >
 >Press tilde key (~) type "N" press enter
 >
