@@ -3,11 +3,11 @@
 >Start browser in developer mode.  Example for powershell in 1.txt 
 >
 >
->On website: press tilde key (~) and type "QM" press enter
+>On website: press tilde key (~) and open quote moniter; type "QM" press enter
 >
 >Add desired ticker symbols.
 >
->Press tilde key (~) type "N" press enter
+>Open news; press tilde key (~) type "N" press enter
 >
 >Set watchlist in "N" to the name of your quote monitor.
 >
