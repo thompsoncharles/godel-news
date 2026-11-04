@@ -1,6 +1,6 @@
 >News scraping for https://app.godelterminal.com/?page=login
 >
->Start browser in developer mode.  Example in 1.txt for powershell
+>Start browser in developer mode.  Example for powershell in 1.txt 
 >
 >
 >On website: press tilde key (~) and type "QM" press enter
