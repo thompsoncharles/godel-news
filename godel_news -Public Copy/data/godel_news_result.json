@@ -1,0 +1,10 @@
+{
+  "status": "unavailable",
+  "reason": "no debuggable browser is open - run `run_news.bat login` first.\nRemote debugging is not reachable at http://127.0.0.1:9222. Attach mode needs Brave (or Chrome) started WITH remote debugging - it cannot attach to an ordinary already-running window retroactively.\n1. Close ALL Brave windows first (a running instance makes the new one hand off and exit, silently ignoring the flag).\n2. Relaunch with the debugging port (PowerShell):\n   & \"C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe\" --remote-debugging-port=9222\n3. If the port still never opens: Chromium 136+ (incl. current Brave) refuses CDP on the DEFAULT profile. Use a dedicated debugging profile instead - log in to Godel there once, it stays logged in:\n   & \"C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe\" --remote-debugging-port=9222 --user-data-dir=\"$env:LOCALAPPDATA\\BraveSoftware\\Brave-CDP\"\n4. Verify it answers:  curl.exe http://127.0.0.1:9222/json/version\nthen rerun this command. Attach mode never enters credentials and never closes your browser or tabs. Alternatively use --browser launch (or GODEL_BROWSER_MODE=launch) for the bot's own persistent godel_profile/ Chrome instead.",
+  "trade_impact": "disabled - research only",
+  "outcomes": [],
+  "raw_csv": "C:\\Users\\user\\OneDrive\\Documents\\Desktop\\godel_news\\data\\news\\godel_news_raw.csv",
+  "interpreted_csv": "C:\\Users\\user\\OneDrive\\Documents\\Desktop\\godel_news\\data\\news\\godel_news_interpreted.csv",
+  "excel_status": null,
+  "excel_path": null
+}

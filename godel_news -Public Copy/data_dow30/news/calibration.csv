@@ -1,0 +1,13 @@
+horizon,band,independent_days,headlines,prob_up_pct,mean_move_pct,median_move_pct,calibrated
+1d,strong negative,1,25,100.0,1.815,1.815,False
+1d,mild negative,1,33,100.0,1.362,1.362,False
+1d,neutral,1,1329,100.0,0.505,0.505,False
+1d,mild positive,1,56,100.0,1.417,1.417,False
+1d,strong positive,1,12,100.0,1.5,1.5,False
+1d,all,1,1455,100.0,0.59,0.59,False
+7d,strong negative,1,25,100.0,7.262,7.262,False
+7d,mild negative,1,33,100.0,4.256,4.256,False
+7d,neutral,1,1329,100.0,4.56,4.56,False
+7d,mild positive,1,56,100.0,7.401,7.401,False
+7d,strong positive,1,12,100.0,9.544,9.544,False
+7d,all,1,1455,100.0,4.75,4.75,False

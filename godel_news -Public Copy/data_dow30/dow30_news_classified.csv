@@ -1,0 +1,565 @@
+ticker,match_basis,date,time,headline,source,source_tier,sentiment,impact,event_types,horizon,signal_terms,detail_status
+MSFT,both,7/30/26,08:00:59,Microsoft Corporation (MSFT) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit,PR Newswire,1,bearish,5,litigation,next_quarter,lawsuit|fraud,headline_only
+AAPL,both,7/30/26,11:59:49,Apple’s new Upgrade program is here. Just be sure to read the fine print,Macworld,1,neutral,4,analyst_action|regulation,next_day,upgrade|fine,headline_only
+AAPL,both,7/30/26,08:23:06,How to Listen to Tim Cook’s Final Earnings Call as Apple CEO,"Mac Observer, The",1,neutral,4,earnings|management,next_day,,headline_only
+MSFT,both,7/30/26,09:32:17,"Microsoft spends $41 billion on AI as Azure revenue jumps 43%, beats Wall Street estimates [Hindustan Times (India)]",Hindustan Times (India),1,bullish,4,earnings,next_day,beats|jumps,headline_only
+AAPL,both,7/30/26,12:09:39,IDC: Apple’s launch of the ‘Apple Upgrade’ program isn ’t incidental,Apple World Today,1,bullish,3,analyst_action|product,next_day,upgrade|launch,headline_only
+AAPL,both,7/30/26,11:08:10,Apple Sued For Keeping Fake Bitcoin Wallet On App Store,InvestingChannel,1,bearish,3,litigation,next_quarter,sued,headline_only
+AAPL,both,7/30/26,07:54:10,Judge Dismisses Apple's iCloud CSAM Lawsuit,News Ghana,1,bearish,3,litigation,next_quarter,lawsuit,headline_only
+AMZN,both,7/30/26,10:24:49,UPDATE 1-Amazon's Zoox wins first US approval for paid robotaxis without human controls,Reuters News,1,bullish,3,product,next_quarter,approval|wins,headline_only
+AMZN,both,7/30/26,07:33:56,EXCLUSIVE-Amazon's Zoox wins first US approval for paid robotaxis without human controls,Reuters News,1,bullish,3,product,next_quarter,approval|wins,headline_only
+AMZN,both,7/30/26,06:30:00,EXCLUSIVE-Amazon's Zoox wins first US approval for paid robotaxis with no human controls,Reuters News,1,bullish,3,product,next_quarter,approval|wins,headline_only
+DIS,both,7/30/26,06:08:01,Disney’s new CEO wants to turn Disney+ into a ‘super app’ to take on Netflix,TheNextWeb.com,1,neutral,3,management,next_week,,headline_only
+GS,both,7/30/26,07:42:31,"Ubisoft says Goldman Sachs beneficial stake falls to 9.85% of capital, 9.09% voting rights",Public Technologies,1,bearish,3,m_and_a,next_quarter,falls,headline_only
+IBM,both,7/30/26,12:14:58,IBM (IBM) Stock Slides Despite Quantum Computing Breakthrough with Algorithmiq,Blockonomi,1,neutral,3,general,unclear,breakthrough|slides,headline_only
+MSFT,both,7/30/26,12:40:26,"AMD Stock Jumps as Microsoft, Samsung Earnings Reignite AI Chip Trade",Benzinga Lightning Feed,1,bullish,3,earnings,next_day,jumps,headline_only
+MSFT,both,7/30/26,12:00:43,Why is MSFT Stock Up Today? Microsoft Earnings Crush Estimates as Azure and AI Fuel Rally,International Business Time Singapore,1,bullish,3,earnings,next_day,rally,headline_only
+MSFT,both,7/30/26,11:51:33,"United States: Microsoft posts record profit as shares surge 10%, while Meta disappoints",Thai News Service,1,bullish,3,earnings,next_day,surge,headline_only
+MSFT,both,7/30/26,11:49:21,Update: Equities Rise Intraday as Microsoft's Post-Earnings Rally Lifts Tech Sector,MT Newswires,1,bullish,3,earnings,next_day,rally,headline_only
+MSFT,both,7/30/26,11:35:59,Microsoft CEO Satya Nadella Says 'Every Model Is Substitutable' — What That Means For OpenAI,Benzinga Lightning Feed,1,neutral,3,management,next_week,,headline_only
+MSFT,both,7/30/26,10:07:49,Azure Crosses $100 Billion for the First Time as Microsoft Q4 Beats Revenue and Earnings Estimates,"Eastern Herald, The (India)",1,bullish,3,earnings,next_day,beats,headline_only
+MSFT,both,7/30/26,09:46:36,Top Midday Stories: Microsoft Shares Rise After Strong Fiscal Q4 Earnings; Meta Shares Fall Following Q2 Earnings Miss,MT Newswires,1,bearish,3,earnings,next_day,miss,headline_only
+MSFT,both,7/30/26,09:43:37,Update: Microsoft Shares Rise After Fiscal Q4 Beat,MT Newswires,1,bullish,3,earnings,next_day,beat,headline_only
+MSFT,both,7/30/26,08:57:51,Microsoft beats quarterly revenue estimates as Azure growth accelerates,Turkish Government News,1,bullish,3,earnings,next_day,beats,headline_only
+MSFT,both,7/30/26,08:55:00,"AMG National Trust Bank Acquires 11,168 Shares of Microsoft Corporation $MSFT",American Banking and Market News,1,bullish,3,m_and_a,next_quarter,acquires,headline_only
+MSFT,both,7/30/26,08:05:37,Nasdaq Surges Over 600 Points; Microsoft Shares Jump After Upbeat Q4 Results,Benzinga Lightning Feed,1,bullish,3,earnings,next_day,surges,headline_only
+MSFT,both,7/30/26,07:16:25,Microsoft CEO Confirms Azure Will Use AMD Helios and NVIDIA Vera Rubin,WinBeta,1,neutral,3,management,next_week,,headline_only
+MSFT,both,7/30/26,06:53:55,GOOG Globe/wire say Microsoft's cloud growth beats estimates,Canada StockWatch,1,bullish,3,earnings,next_day,beats,headline_only
+MSFT,both,7/30/26,06:53:49,MSFT Globe/wire say Microsoft's cloud growth beats estimates,Canada StockWatch,1,bullish,3,earnings,next_day,beats,headline_only
+MSFT,both,7/30/26,06:23:23,Microsoft beats quarterly revenue estimates as Azure growth accelerates [ICT Monitor Worldwide],ICT Monitor Worldwide,1,bullish,3,earnings,next_day,beats,headline_only
+AAPL,both,7/30/26,12:23:08,Apple looks to settle ‘buy or sell’ Street fight with Q3 earnings,InvestingChannel,1,neutral,2,earnings,next_day,,headline_only
+AAPL,both,7/30/26,12:15:54,Apple Smashes Records With 55.1 Million iPhones Shipped in Q2,"Mac Observer, The",1,neutral,2,earnings,next_day,,headline_only
+AAPL,both,7/30/26,12:12:38,"Exploring Apple Silicon’s local AI performance with the Mac Studio and M4 Max — M4 Max beats GB10 and Strix Halo in decode throughput, but memory bandwidth isn't everything",Tom's Hardware,1,bullish,2,general,unclear,beats,headline_only
+AAPL,both,7/30/26,12:09:39,Qualcomm says its Apple revenue will decline faster than expected,Apple World Today,1,neutral,2,earnings,next_day,,headline_only
+AAPL,both,7/30/26,12:05:16,Apple launches device leasing program in US through Klarna. What do we know so far?,Just Earth News,1,bullish,2,product,next_quarter,launches,headline_only
+AAPL,both,7/30/26,11:59:52,"I switched to Beats, and I’ll never go back to Apple again",Macworld,1,bullish,2,general,unclear,beats,headline_only
+AAPL,both,7/30/26,11:50:33,Apple Upgrade makes getting a new Mac easier but not necessarily cheaper,Macworld,1,bullish,2,analyst_action,next_day,upgrade,headline_only
+AAPL,both,7/30/26,10:53:25,BUZZ-PREVIEW: Apple slides; investors focus on iPhone sales,Reuters News,1,bearish,2,general,unclear,slides,headline_only
+AAPL,both,7/30/26,10:07:44,Apple Beats on Every Line as Tim Cook Signs Off With a Record Quarter,"Eastern Herald, The (India)",1,bullish,2,general,unclear,beats,headline_only
+AAPL,both,7/30/26,10:04:37,"Apple iPhone 18 Pro & iPhone Ultra Launch Event: Expected Apple Event Date, Release Timeline, Price in US, UK, Canada & India, Sale Date, Features & All You Need to Know [Sunday Guardian, The (India)]","Sunday Guardian, The (India)",1,bullish,2,product,next_quarter,launch,headline_only
+AAPL,both,7/30/26,10:02:27,Apple teams with Klarna and launches a new device leasing program in the US,The Canadian Media,1,bullish,2,product,next_quarter,launches,headline_only
+AAPL,both,7/30/26,08:56:10,Apple Inc. $AAPL Position Lessened by CFO Capital Management LLC,American Banking and Market News,1,neutral,2,management,next_week,,headline_only
+AAPL,both,7/30/26,08:40:34,Apple (AAPL) Stock Trades at $338 Ahead of Fiscal Q3 Earnings Report,MoneyCheck.com (United Kingdom),1,neutral,2,earnings,next_day,,headline_only
+AAPL,both,7/30/26,07:51:32,"UPDATE 1-Qualcomm shares slide as higher costs, Apple-related weakness cloud profit forecast",Reuters News,1,neutral,2,earnings|guidance,next_day,,headline_only
+AAPL,both,7/30/26,07:26:13,Apple Stock Sits at Record Highs: Can Q3 Earnings Drive the Next Breakout?,Benzinga Lightning Feed,1,neutral,2,earnings,next_day,,headline_only
+AAPL,both,7/30/26,06:33:34,Apple Awarded Patent for Context-based Object Viewing Within 3D Environments,Information Technology Patent News,1,bullish,2,product,next_quarter,awarded,headline_only
+AMGN,both,7/30/26,12:36:05,Amgen launches 1st Amgen Scholars Programme in India at IIIT Hyderabad [United News of India],United News of India,1,bullish,2,product,next_quarter,launches,headline_only
+AMGN,both,7/30/26,08:34:41,What Analyst Projections for Key Metrics Reveal About Amgen (AMGN) Q2 Earnings,Zack's Commentary,1,neutral,2,analyst_action|earnings,next_day,,headline_only
+AMZN,both,7/30/26,10:52:00,Amazon's Zoox Gets Regulatory Approval for Paid Robotaxis,MT Newswires,1,bullish,2,product,next_quarter,approval,headline_only
+AMZN,both,7/30/26,10:44:26,"--Amazon's Zoox Gets Regulatory Approval for Paid Robotaxis, Reuters Reports",MT Newswires,1,bullish,2,product,next_quarter,approval,headline_only
+AMZN,both,7/30/26,10:07:06,Amazon (AMZN) Stock:$200 Billion Capex Plan Faces a Crucial Earnings Test,Blockonomi,1,neutral,2,earnings,next_day,,headline_only
+AMZN,both,7/30/26,09:03:31,Q2 Earnings Lift Amazon (AMZN) Stock Toward Breakout Zone,Blockonomi,1,neutral,2,earnings,next_day,,headline_only
+AMZN,both,7/30/26,07:53:24,What's Behind the Amazon Stock Bounce Ahead of Q2 Earnings?,Benzinga Lightning Feed,1,neutral,2,earnings,next_day,,headline_only
+BA,both,7/30/26,08:14:30,"U.S. Marine Corps MV-22 Program of Record Reaches Milestone; Transition Signals Continued Investment by Bell Boeing in Future Readiness, Sustainment, and Modernization",ENP Newswire,1,bullish,2,general,unclear,milestone,headline_only
+CAT,both,7/30/26,08:34:36,Unlocking Q2 Potential of Caterpillar (CAT): Exploring Wall Street Estimates for Key Metrics,Zack's Commentary,1,neutral,2,earnings,next_day,,headline_only
+CVX,both,7/30/26,10:42:02,"Chevron, ExxonMobil Earnings Preview: Higher Oil Prices Have Analysts Predicting Best Results in 15 Quarters",Benzinga Lightning Feed,1,neutral,2,earnings,next_day,,headline_only
+CVX,both,7/30/26,08:53:27,Arkadios Wealth Advisors Increases Stake in Chevron Corporation $CVX,American Banking and Market News,1,neutral,2,m_and_a,next_quarter,,headline_only
+GS,both,7/30/26,11:57:38,Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform,MT Newswires,1,bullish,2,product,next_quarter,launches,headline_only
+GS,both,7/30/26,09:19:29,Earnings Preview: Goldman Sachs BDC (GSBD) Q2 Earnings Expected to Decline,Zack's Commentary,1,neutral,2,earnings,next_day,,headline_only
+GS,both,7/30/26,08:45:19,Goldman Sachs Warns Oil Could Be Headed Back To $120,InvestingChannel,1,bearish,2,general,unclear,warns,headline_only
+GS,both,7/30/26,07:47:27,"Valeo says Goldman Sachs holds 5.59% beneficial stake (13,741,059 shares)",Public Technologies,1,neutral,2,m_and_a,next_quarter,,headline_only
+GS,both,7/30/26,07:39:07,"Pernod Ricard says Goldman Sachs lifts beneficial stake to 5.01% of capital, 4.17% of voting rights",Public Technologies,1,neutral,2,m_and_a,next_quarter,,headline_only
+GS,both,7/30/26,06:08:57,Goldman Sachs Warns Oil Could Be Headed Back To $120,InvestingChannel,1,bearish,2,general,unclear,warns,headline_only
+HON,both,7/30/26,11:02:09,Honeywell Technologies (HON)’s First Earnings as a Standalone Company: Bull vs Bear Analysis,InsiderMonkey,1,neutral,2,earnings,next_day,,headline_only
+IBM,both,7/30/26,06:35:42,IBM Awarded Patent for Characterizing Self-heating of Logic-clock-buffers (lcbs),Information Technology Patent News,1,bullish,2,product,next_quarter,awarded,headline_only
+IBM,both,7/30/26,06:33:54,IBM Awarded Patent for Training Platform for Training a User on an Application,Software Patent News,1,bullish,2,product,next_quarter,awarded,headline_only
+IBM,both,7/30/26,06:33:37,IBM Awarded Patent for Generating 3D Hand Keypoints for a Mixed Reality Avatar,Optics & Imaging Patent News,1,bullish,2,product,next_quarter,awarded,headline_only
+IBM,both,7/30/26,06:32:39,IBM Awarded Patent for Generating Goal-oriented Dialogues from Documents,Information Technology Patent News,1,bullish,2,product,next_quarter,awarded,headline_only
+IBM,both,7/30/26,06:32:26,IBM Secures Patent for Data Compliance in an Edge Computing Environment,Tools and Machinery Patent News,1,neutral,2,product|regulation,next_quarter,,headline_only
+IBM,both,7/30/26,06:32:22,IBM Awarded Patent for Critical-object Guided Operating System Fuzzing,Software Patent News,1,bullish,2,product,next_quarter,awarded,headline_only
+IBM,both,7/30/26,06:03:35,Circle’s IBM Patent Deal Could Redraw the Stablecoin Infrastructure Race,MarketBeat,1,neutral,2,m_and_a|product,next_quarter,,headline_only
+JNJ,both,7/30/26,08:30:27,"Johnson & Johnson's Rybrevant Faspro Secures FDA Priority Review for Head, Neck Cancer Treatment",MT Newswires,1,neutral,2,regulation,next_quarter,,headline_only
+JNJ,both,7/30/26,07:48:09,"Johnson & Johnson Completes Acquisition of Firefly Bio, Inc. to Advance Next-Generation Oncology Innovation",ENP Newswire,1,neutral,2,m_and_a,next_quarter,,headline_only
+JNJ,both,7/30/26,06:41:03,BRIEF-Johnson & Johnson's Rybrevant Faspro™ (Amivantamab And Hyaluronidase-Lpuj) Receives U.S. FDA Priority Review As Potential First-In-Class Egfr- And Met-Targeted Subcutaneous Treatment For Advanced Head And Neck Cancer,Reuters News,1,neutral,2,regulation,next_quarter,,headline_only
+JNJ,both,7/30/26,06:39:25,"*Johnson & Johnson Says FDA Grants Priority Review To Subcutaneous Amivantamab For Recurrent Or Metastatic Head And Neck Cancer, Citing 42% Overall Response Rate In OrigAMI-4 Study",Benzinga Lightning Feed,1,neutral,2,regulation,next_quarter,,headline_only
+JNJ,both,7/30/26,06:30:15,Johnson & Johnson's RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) receives U.S. FDA Priority Review as potential first-in-class EGFR- and MET-targeted subcutaneous treatment for advanced head and neck cancer,PR Newswire,1,neutral,2,regulation,next_quarter,,headline_only
+JPM,both,7/30/26,12:03:22,JPMorgan AM Appoints Leslie Rich As Global Head Of Sustainable Investing Research Insights,TalkMarkets - Stocks,1,neutral,2,management,next_week,,headline_only
+JPM,both,7/30/26,10:53:03,JPMorgan AM Appoints Leslie Rich As Global Head Of Sustainable Investing Research Insights,TalkMarkets,1,neutral,2,management,next_week,,headline_only
+JPM,both,7/30/26,10:07:05,"Senate Delays Weaken Clarity Act Prospects, JPMorgan Warns",Blockonomi,1,bearish,2,general,unclear,warns,headline_only
+JPM,both,7/30/26,09:41:47,JPMorgan Warns Crypto Faces Setback As CLARITY Act Odds Drop To 37%,Benzinga Lightning Feed,1,bearish,2,general,unclear,warns,headline_only
+JPM,both,7/30/26,06:31:37,JPMorgan Chase Bank Awarded Patent for Method and System for Triggering Alerts on Identification of an Anomaly in Data Logs,Information Technology Patent News,1,bullish,2,product,next_quarter,awarded,headline_only
+KO,both,7/30/26,06:13:24,"Argus Research Adjusts Coca-Cola Price Target to $97 From $91, Maintains Buy Rating",MT Newswires,1,bullish,2,analyst_action,next_day,buy rating,headline_only
+MCD,both,7/30/26,08:34:44,Countdown to McDonald's (MCD) Q2 Earnings: A Look at Estimates Beyond Revenue and EPS,Zack's Commentary,1,neutral,2,earnings,next_day,,headline_only
+MMM,both,7/30/26,10:49:50,"Posting_Id: 142656589, Polyurethane Based Sealant In Cartridge Of 600Ml Only. Make : Teroson 8590 Or Sika 264 T Or Total Seal 100 Or 3M 8509 Or Any Other Brand Approved By Icf Note:- 1). Sealant Colour- Black Only. 2).Manufacturing Date Should Not Be Olde",Indian Government Tenders (India),1,bullish,2,product,next_quarter,approved,headline_only
+MRK,both,7/30/26,11:29:40,"Merck announces Q3 2026 distribution of R$ 0.37 per unit, payable Oct. 14",Public Technologies,1,neutral,2,earnings,next_day,,headline_only
+MRK,both,7/30/26,09:10:08,RFK Jr.'s Gardasil litigation ties subject to fresh lawmaker scrutiny after Merck settlement,FiercePharma,1,neutral,2,litigation,next_quarter,,headline_only
+MRK,both,7/30/26,08:34:39,"Exploring Analyst Estimates for Merck (MRK) Q2 Earnings, Beyond Revenue and EPS",Zack's Commentary,1,neutral,2,analyst_action|earnings,next_day,,headline_only
+MSFT,both,7/30/26,12:42:21,Microsoft's Backlog Just Hit $678B — Almost a Third Traces to a Single Customer,Benzinga Lightning Feed,1,bullish,2,general,unclear,backlog,headline_only
+MSFT,both,7/30/26,12:26:19,US STOCKS-Wall Street jumps as Microsoft sees biggest leap since 2008,Reuters News,1,bullish,2,general,unclear,jumps,headline_only
+MSFT,both,7/30/26,12:14:29,Stifel Nicolaus Issues Positive Forecast for Microsoft (NASDAQ:MSFT) Stock Price,MarketBeat Instant Alerts,1,neutral,2,guidance,next_day,,headline_only
+MSFT,both,7/30/26,12:04:47,Microsoft Stock Price Increases 15% Following Historic FY26 Q4 Earnings Report,WinBeta,1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,11:59:51,"Microsoft Q4 2026: Azure Surpasses $100B, AI‑Driven Growth Fuels Record Earnings",AktienSensor.com (Germany),1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,11:59:44,"Microsoft leads a rally on Wall Street, while worries about inflation remain in the bond market",Associated Press,3,bullish,2,general,unclear,rally,headline_only
+MSFT,both,7/30/26,11:58:36,Stale 13F Alerts Met Live Microsoft Beat: QQQ Rallies as Azure Tops $100B,Tech Times,1,bullish,2,general,unclear,beat,headline_only
+MSFT,both,7/30/26,11:38:31,"GLOBAL MARKETS-Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",Reuters News,1,bullish,2,general,unclear,rally,headline_only
+MSFT,both,7/30/26,11:29:35,Stock Market Today: Microsoft Ignites Chip Rebound as SanDisk Jumps 24%,Benzinga Lightning Feed,1,bullish,2,general,unclear,jumps,headline_only
+MSFT,both,7/30/26,10:51:33,Microsoft shares set for best day in nearly 18 years as Azure surge validates AI bet,Proactive Investors,1,bullish,2,general,unclear,surge,headline_only
+MSFT,both,7/30/26,10:25:45,"Microsoft's Strong Fiscal Q4 Results, Guidance Counter AI Disruption Narrative, Oppenheimer Says",MT Newswires,1,neutral,2,earnings|guidance,next_day,,headline_only
+MSFT,both,7/30/26,10:14:48,"Microsoft's Robust Fiscal Q4 Results Driven by Azure Growth, M365 Copilot Traction, RBC Says",MT Newswires,1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,10:09:19,Microsoft jumps nearly 8% after exceeding market expectations driven by cloud business growth,CE Noticias Financieras (Latin America),1,bullish,2,general,unclear,jumps,headline_only
+MSFT,both,7/30/26,09:54:34,"Microsoft (MSFT) Soars, Meta (META) Sinks After Earnings—Here’s Why",InvestingChannel,1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,09:10:22,Microsoft's $41B AI spending drives Azure growth and beats expectations [Hindustan Times (India)],Hindustan Times (India),1,bullish,2,general,unclear,beats,headline_only
+MSFT,both,7/30/26,09:03:30,Microsoft (MSFT) Stock Rallies on Strong Earnings and Lower Capex,Blockonomi,1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,09:02:20,QUICK SPARK: Microsoft Stock Eyes Best Rally Since March 2020,Benzinga Lightning Feed,1,bullish,2,general,unclear,rally,headline_only
+MSFT,both,7/30/26,08:55:36,Calamos Wealth Management LLC Has $108.20 Million Stake in Microsoft Corporation $MSFT,American Banking and Market News,1,neutral,2,m_and_a,next_quarter,,headline_only
+MSFT,both,7/30/26,08:35:50,"Microsoft, Meta Earnings Expose a Growing Divide in the AI ETF Trade",Benzinga Lightning Feed,1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,08:35:19,"GLOBAL MARKETS-Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",Reuters News,1,bullish,2,general,unclear,rally,headline_only
+MSFT,both,7/30/26,08:32:58,Microsoft Is Soaring After Its Earnings And There Is Renewed Appetite For Chipmakers. Stocks Are Rebounding,International Business Times,1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,08:20:23,Microsoft tops estimates as Azure passes $100 billion annually [ICT Monitor Worldwide],ICT Monitor Worldwide,1,bullish,2,general,unclear,tops estimates,headline_only
+MSFT,both,7/30/26,08:20:20,"Microsoft, Databricks Expand Enterprise AI Partnership [ICT Monitor Worldwide]",ICT Monitor Worldwide,1,bullish,2,general,unclear,partnership,headline_only
+MSFT,both,7/30/26,08:15:50,Microsoft Plans Major WinUI 3 Upgrade for Windows 11,WinBeta,1,bullish,2,analyst_action,next_day,upgrade,headline_only
+MSFT,both,7/30/26,08:14:14,"Microsoft, Meta Stocks Bookend the Nasdaq After Earnings",Schaeffer's Daily Contrarian,1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,08:07:16,Lost Money on Microsoft Corporation (MSFT)? Join Class Action Suit Seeking Recovery - Contact SueWallSt,PR Newswire,1,neutral,2,litigation,next_quarter,,headline_only
+MSFT,both,7/30/26,07:59:07,Microsoft Azure revenue tops $100 billion as cloud growth hits four-year high,Business Line (India),1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,07:55:45,Microsoft’s $3.2B Anthropic Gain Beat an Entire Business Segment,Benzinga Lightning Feed,1,bullish,2,general,unclear,beat,headline_only
+MSFT,both,7/30/26,07:16:30,Microsoft’s FY26 Q4 Earnings Hit $90 Billion as AI Growth Accelerates,WinBeta,1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,07:16:24,Microsoft’s Anthropic Bet Just Paid Off Bigger Than OpenAI During FY26 Q4,WinBeta,1,neutral,2,earnings,next_day,,headline_only
+MSFT,both,7/30/26,06:02:19,"Mizuho Adjusts Price Target on Microsoft to $510 From $490, Maintains Outperform Rating",MT Newswires,1,bullish,2,analyst_action,next_day,outperform,headline_only
+NVDA,both,7/30/26,10:08:17,AMD Falls Behind as Nvidia’s Vera CPU Targets 90% of the Server Market by 2029,"Eastern Herald, The (India)",1,bearish,2,general,unclear,falls,headline_only
+NVDA,both,7/30/26,09:27:08,Why Nvidia stock is rebounding around 3% after Big Tech earnings,Invezz,1,neutral,2,earnings,next_day,,headline_only
+NVDA,both,7/30/26,08:58:21,Nvidia Slashes Approved Asia Customer Base as U.S. Tightens China Chip Export Enforcement,Sri Lanka Guardian,1,bullish,2,product,next_quarter,approved,headline_only
+NVDA,both,7/30/26,07:17:30,"NVIDIA expands its Agent Toolkit, integrating PhysicsNeMo and CUDA-X libraries, to reshape global engineering, design, and manufacturing practices",China Business News,1,bullish,2,general,unclear,expands,headline_only
+PG,both,7/30/26,10:49:26,"Procter & Gamble's Fiscal 2027 Guidance Reflects Prudent View of Market Realities, RBC Says",MT Newswires,1,neutral,2,guidance,next_day,,headline_only
+PG,both,7/30/26,08:22:21,P&G appoints Shailesh Jejurikar as chairman; Jon Moeller to retire [Executive Appointments Monitor Worldwide],Executive Appointments Monitor Worldwide,1,neutral,2,management,next_week,,headline_only
+PG,both,7/30/26,08:09:44,"Shailesh Jejurikar named Chairman of P&G Board of Directors, Jon Moeller to retire",,1,neutral,2,management,next_week,,headline_only
+PG,both,7/30/26,08:03:25,Shailesh Jejurikar Appointed Chairman of P&G Board of Directors,ENP Newswire,1,neutral,2,management,next_week,,headline_only
+PG,both,7/30/26,07:33:00,"Shailesh Jejurikar To Take Charge as P&G Chairman, Strengthening India-Origin Leadership",Free Press Journal (India),1,neutral,2,management,next_week,,headline_only
+PG,both,7/30/26,07:17:18,P&G Appoints Shailesh Jejurikar As Chairman Of The Board,Businessworld (India),1,neutral,2,management,next_week,,headline_only
+PG,both,7/30/26,06:34:23,P&G names Shailesh Jejurikar as Chairman of the Board,Adgully (India),1,neutral,2,management,next_week,,headline_only
+PG,both,7/30/26,06:23:55,Shailesh Jejurikar Appointed Chairman of P&G Board of Directors [Executive Appointments Monitor Worldwide],Executive Appointments Monitor Worldwide,1,neutral,2,management,next_week,,headline_only
+SHW,both,7/30/26,07:02:22,BRIEF-Sherwin-Williams Introduces Its 2027 Colormix® Trend Forecast Rewild,Reuters News,1,neutral,2,guidance|product,next_day,,headline_only
+UNH,both,7/30/26,07:16:28,UnitedHealth Group: How Cost‑Control and Expansion Drive Profit‑First Success,SentimentTrading (Germany),1,neutral,2,earnings,next_day,,headline_only
+AAPL,both,7/30/26,12:11:12,Apple wants users of its devices to be better able to navigate the ever-growing number of streaming services,Apple World Today,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,12:11:11,Apple will donate to relief efforts supporting those affected by the wildfires affecting southern Europe,Apple World Today,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,12:10:36,Apple releases Safari Technology Preview 249,Apple World Today,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,12:09:38,Senators want Apple to commit to NOT using Chinese memory chips,Apple World Today,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,12:08:14,"Apple delivered its strongest-ever second quarter, shipping 55.1 million iPhones",Apple World Today,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,12:06:53,Plot twist: Apple’s ridiculed AI strategy is actually working,Creative Bloq,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,12:06:20,Apple's new operating system hints at Home Hub plans,,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,11:57:21,Apple’s New MacBook Pro Screen Is Stunning — But Samsung Holds All the Cards,Memeburn,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,11:51:53,"Apple changes the game: iPhones can now be ""rented"" for as low as $17.99 per month",CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,11:50:39,Secure your digital life across all your Apple devices,Macworld,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,10:51:10,iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?,MacRumors.com,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,10:51:09,Apple Donating to European Wildfire Relief Efforts,MacRumors.com,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,10:51:05,iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship,MacRumors.com,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,10:45:56,iPhone 18 Pro gets a release date: Apple changes strategy and delays base models,CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,10:42:34,Schumer wades into Apple vs. Micron fight as tech giants spar over Chinese chips [syracuse.com],Syracuse Media Group (NY),1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,10:41:00,"Apple Shares Dip 1% as Fed Holds Rates, Tech Stocks Face Supply‑Chain and Geopolitical Headwinds",AktienSensor.com (Germany),1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,10:40:14,Apple Inc Files Patent Application for Electronic Device System with Supplemental Lenses,Indian Patents News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,10:32:57,"Posting_Id: 142654502, Items: Apple Ipad Proquantity: 2",Indian Government Tenders (India),1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,10:30:32,Qualcomm shows Apple’s modem transition is almost complete,Computerworld,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,10:11:22,Apple TV Secures MLS Victory Over Liga MX in 2026 All-Star Game,CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,09:40:39,Apple Inc Files Patent Application for Techniques to Manage Bearer Independent Protocol Messages for Protocol Failures,Indian Patents News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,08:54:37,Apple Inc. $AAPL Stock Holdings Lowered by Flynn Zito Capital Management LLC,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,08:52:01,Apple Inc. $AAPL is Checchi Capital Advisers LLC’s 2nd Largest Position,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,08:39:21,Apple teases ‘Severance’ season 3 in cryptic tweet,Macworld,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,08:11:10,Tender Invited For Apple Ipad Pro ##quantity: 2 ## [Al Bawaba Business],Al Bawaba Business,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,07:40:48,State Intellectual Property Office of China Publishes Apple Patent Application for Techniques for Displaying Content with Live Video Feed,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:40:43,State Intellectual Property Office of China Releases Apple Patent Application for Techniques for Discard Mechanism,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:40:42,Apple Seeks Patent for Communication Modulation for Wireless Power Transfer,Electrical Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:40:11,State Intellectual Property Office of China Publishes Apple Patent Application for Techniques for Adjusting Output of Device,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:29:13,Apple Granted United States Patent for Electronic Device with Sheet Metal Antenna,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:28:03,Apple Granted Patent for Devices and Methods for Generating Virtual Objects,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:27:58,Apple Gains Patent for Display Tracking Systems and Methods,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:27:17,Apple Gains Patent for Method and Device for Automatic Authentication,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:27:13,Apple Granted Patent for Bus Protocol for Multiple Chipsets,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:26:55,Apple Obtains Patent for Operand Selection Circuitry,Electrical Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:26:40,Apple Gets Patent for Multi-processor Power Management Circuit,Electrical Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:26:26,Apple Obtains Patent for Voltage Reference Circuit,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:10:40,Apple Submits Chinese Patent Application for Enabling Layer Proxy Mechanism,Engineering Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,07:06:32,"AAPL Globe says Apple, rivals see Kimi K3 stir excitement",Canada StockWatch,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,06:35:22,Apple Reportedly Plans Biggest Smart Home Push in Years With New Siri,Tech Republic,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,06:33:22,Apple Secures Patent for Methods and Devices for Detecting and Identifying Features in an Ar/vr Scene,Measurement & Testing Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,06:31:53,Apple Granted Patent for Share Pools for Sharing Files Via a Storage Service,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,06:30:41,Apple Gets Patent for Eye-gaze Based Biofeedback,Medical Patent News,1,neutral,1,product,next_quarter,,headline_only
+AAPL,both,7/30/26,06:26:30,"Apple, Steel Dynamics, CBRE Group And More: CNBC’s ‘Final Trades’",Benzinga Lightning Feed,1,neutral,1,general,unclear,,headline_only
+AAPL,both,7/30/26,06:02:20,‘Stealth iPod’ Apple made to disguise famous music player for sale,"Messenger, The (Madisonville, KY)",1,neutral,1,general,unclear,,headline_only
+AMGN,both,7/30/26,09:40:12,"YouTuber MrBeast welcomes Amgen to the channel, kicking off pediatric cancer funding effort",FiercePharma,1,neutral,1,general,unclear,,headline_only
+AMGN,both,7/30/26,06:35:40,"Amgen says EU CHMP backs broader Repatha use to cut first heart attack, stroke risk",Public Technologies,1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,12:35:43,Amazon drone on delivery crashes into garden just months after local feared 'it could hit a baby',"Mirror, The (UK)",1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,11:57:20,"Thirty years ago, Jeff Bezos powered the whole of Amazon.com with a flimsy orange extension cord in a rented house. Today, his AWS servers slurp more electricity than New York, Los Angeles, and San Francisco combined while powering 1/3 of the Internet.",Luxurylaunches,1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,11:19:10,"Ukraine claims an attack on a Wildberries warehouse, the Russian Amazon, in the city of Penza",CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,11:11:49,"Cursor Rolls Out Cursor Benchmark Partners Program Alongside Amazon Web Services, Nvidia, Snowflake",Benzinga Lightning Feed,1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,10:09:24,"Ukraine claims an attack on a Wildberries warehouse, Russia's Amazon, in the city of Penza",CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,09:53:18,Amazon’s Zoox just won the first US OK to charge for rides in a no-wheel robotaxi,TheNextWeb.com,1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,09:40:46,Jeff Bezos and Liverpool FC: the Amazon founder could join a consortium to invest in the club,CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,09:35:18,Amazon.com Inc. (NASDAQ: AMZN) is One of Thursday Morning’s Most Active Stocks,NetworkNewsWire (NNW),1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,08:55:55,"995,799 Shares in Amazon.com, Inc. $AMZN Purchased by Aware Super Pty Ltd as trustee of Aware Super",American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,08:53:53,"Amazon.com, Inc. $AMZN Shares Bought by Avalon Trust Co",American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,08:52:41,"Amazon.com, Inc. $AMZN Shares Sold by Allspring Global Investments Holdings LLC",American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,08:10:02,U.S. National Highway Traffic Safety Administration Allowing Amazon's Zoox To Commercially Deploy Robotaxis For Two Years,Benzinga Lightning Feed,1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,08:04:30,Artificial’s Andrew Garfield and other stars reacts to Amazon axing film about Jeff Bezos pal,"Independent, The (Online) (UK)",1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,07:30:57,Artificial’s Andrew Garfield and other stars reacts to Amazon axing film about Jeff Bezos pal,"Independent, The (Online) (UK)",1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,07:05:45,"Why is Ukraine attacking Wildberries, the Russian version of Amazon, selling everything from groceries to drones? [Mint (New Delhi)]",Mint (New Delhi),1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,06:40:34,"The Geography of Ukrainian Attacks on Wildberries Warehouses, Russia's Amazon",CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,06:22:01,Feed california: how amazon employees are fighting hunger across the state,TendersInfo - News (India),1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,06:15:23,Amazon to invest more than €300 million expanding site in SW Germany,dpa English,1,neutral,1,general,unclear,,headline_only
+AMZN,both,7/30/26,06:12:27,Feed california: how amazon employees are fighting hunger across the state [Al Bawaba Business],Al Bawaba Business,1,neutral,1,general,unclear,,headline_only
+AXP,both,7/30/26,08:35:20,Investors Heavily Search American Express Company (AXP): Here is What You Need to Know,Zack's Commentary,1,neutral,1,general,unclear,,headline_only
+BA,both,7/30/26,12:17:21,Bangladesh to buy both Boeing and Airbus aircraft: Shama Obaed,"Business Standard, The (Bangladesh)",1,neutral,1,general,unclear,,headline_only
+BA,both,7/30/26,11:52:18,Ukraine: Production of Patriot systems in Ukraine impossible due to Boeing's position - TV,Thai News Service,1,neutral,1,general,unclear,,headline_only
+BA,both,7/30/26,09:34:59,The Boeing Co Applies for Patent on Aircraft Flight Path Waiting Course System and Method,Aerospace Patent News,1,neutral,1,product,next_quarter,,headline_only
+BA,both,7/30/26,09:34:42,Boeing Co and The Boeing Co Gain Patent for Airborne Satellite Connectivity System,Aerospace Patent News,1,neutral,1,product,next_quarter,,headline_only
+BA,both,7/30/26,08:51:07,Boeing bumpy skies on Air Force One,"New York Post, The",1,neutral,1,general,unclear,,headline_only
+BA,both,7/30/26,07:45:04,"ValueJet to add Boeing aircraft, eyes regional expansion",Daily Trust (Nigeria),1,neutral,1,general,unclear,,headline_only
+BA,both,7/30/26,07:19:12,Forget Airbus and Boeing. Embraer is soaring,"Economist, The",1,neutral,1,general,unclear,,headline_only
+CRM,both,7/30/26,11:58:44,Why Pension Funds Trim Salesforce While Analysts Stay Bullish: Agentforce Gap,Tech Times,1,neutral,1,general,unclear,,headline_only
+CRM,both,7/30/26,07:49:27,"Salesforce report shows 95% of field service firms use AI, 85% plan higher spend",Public Technologies,1,neutral,1,general,unclear,,headline_only
+CRM,both,7/30/26,06:32:10,Salesforce Inc and Narrative Science Llc Granted Patent for Interactive and Conversational Data Exploration,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+CSCO,both,7/30/26,12:33:29,"Posting_Id: 142654880, Annual Maintenance Contract For Networking Devices (Version 2) - Cisco Router, L-3 & L-2 Switches, Quantity: 1",Indian Government Tenders (India),1,neutral,1,general,unclear,,headline_only
+CSCO,both,7/30/26,08:49:23,"Tender Invited For Annual Maintenance Contract For Networking Devices (version 2) - Cisco Router, L-3 & L-2 Switches, ##quantity: 1 ## [Al Bawaba Business]",Al Bawaba Business,1,neutral,1,general,unclear,,headline_only
+CVX,both,7/30/26,08:53:14,"Update: Market Chatter: Exxon, Chevron Face Hurdles Trying to Tap Into Venezuelan Oil",MT Newswires,1,neutral,1,general,unclear,,headline_only
+CVX,both,7/30/26,06:25:47,"Market Chatter: Exxon, Chevron Face Hurdles Trying to Tap Into Venezuelan Oil",MT Newswires,1,neutral,1,general,unclear,,headline_only
+CVX,both,7/30/26,06:17:00,"--Exxon, Chevron Face Hurdles Trying to Tap Into Venezuelan Oil, WSJ Reports",MT Newswires,1,neutral,1,general,unclear,,headline_only
+DIS,both,7/30/26,09:33:33,"Disney Faces Streaming Cuts, FCC Support, and a New Citi Target Price of $135",SentimentTrading (Germany),1,neutral,1,general,unclear,,headline_only
+DIS,both,7/30/26,09:31:32,Disney digs in for a major FCC fight over ABC station licenses [Los Angeles Times],Los Angeles Times (CA),1,neutral,1,general,unclear,,headline_only
+DIS,both,7/30/26,09:12:22,Disney Announces Trump Administration Is Retaliating Against ABC Over Its News Coverage In Early License Review,Benzinga Lightning Feed,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,11:49:44,"UPDATE 1-Goldman Sachs asset arm forms AI investing platform, memo shows",Reuters News,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,11:45:33,FWP - GOLDMAN SACHS GROUP INC,Form FWP,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,11:45:03,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,11:11:48,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,10:59:48,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,10:58:04,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,10:39:40,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,10:31:18,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,10:13:24,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:57:21,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:47:00,Goldman Sachs queried top lawyer Ruemmler on Epstein links as scrutiny mounted,Reuters News,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:37:35,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Schoo,inc",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:37:32,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Liberaware Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:27:08,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:26:30,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:23:38,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Green Monster Inc,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:23:37,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of INNOTECH CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:23:35,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of SQUARE ENIX HOLDINGS CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:23:32,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Shochiku Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:23:28,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of ReYuu Japan Inc,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:23:20,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of LAND Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:23:10,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of The Fukui Bank,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:23:06,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Aozora Bank,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:59,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Sanrio Company,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:57,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of SANYO SHOKAI LTD,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:54,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of TOMY COMPANY,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:48,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of NIKON CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:43,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of COLOWIDE CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:42,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of HAPPINET CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:40,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of KOHNAN SHOJI CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:33,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of DAIDO METAL CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:30,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of MUSASHI SEIMITSU INDUSTRY CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:29,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of SBI ARUHI Corporation,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:26,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Prored Partners CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:24,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of MITSUI E&S Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:17,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of ROHM COMPANY LIMITED,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:22:15,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of DAISHINKU CORP,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:20:41,Goldman Sachs International Secures JSE Listing for New Series P Programme,South Africa News Gazette,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:03:52,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Stanley Electric Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:03:46,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of MegaChips Corporation,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:03:41,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of MICRONICS JAPAN CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:03:34,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of JAPAN ELECTRONIC MATERIALS CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:03:19,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Maxell,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:03:08,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of ALPS ALPINE CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:03:07,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Sharp Corporation,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:03:00,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of TRaaS On Product Inc,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:02:49,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of W-SCOPE Corporation,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:02:45,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of TAKAOKA TOKO CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:02:43,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of QD Laser,Inc",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:02:36,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Sanoh Industrial Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:02:32,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of JAPAN ELEVATOR SERVICE HOLDINGS CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:02:26,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Socionext Inc,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:02:13,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of YASKAWA Electric Corporation,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:01:42,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of SAMCO INC,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:01:26,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Mitsubishi Kakoki Kaisha,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:01:10,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of ISEKI & CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:01:07,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of OKADA AIYON CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:00:57,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of NPC Incorporated,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:00:49,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of AIMECHATEC,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:00:43,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Ishikawa Seisakusho,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:00:25,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Asahi Diamond Industrial Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:00:08,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Jibannet Holdings Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:00:05,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of IR Japan Holdings,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,09:00:02,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Japan Engine Corporation,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:59:46,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of OSAKA Titanium technologies Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:51:44,Bending Spoons (NASDAQ:BSP) Research Coverage Started at The Goldman Sachs Group,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:28:48,424B2 - GOLDMAN SACHS GROUP INC,,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:22:00,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of NIPPON STEEL CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:21:30,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of WEATHERNEWS INC,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:21:29,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Cybozu,Inc",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:55,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Safie Inc,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:54,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Tri Chemical Laboratories Inc,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:50,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Carlit Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:43,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Visional,Inc",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:32,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of SHIKOKU KASEI HOLDINGS CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:29,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Nippon Chemical Industrial Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:26,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Plus Alpha Consulting Co.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:25,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Denka Company Limited,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:20,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Konoshima Chemical Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:16,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Resonac Holdings Corporation,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:20:12,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of PKSHA Technology Inc,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,08:00:00,"Goldman Sachs asset arm forms an AI investing platform, memo shows",Reuters News,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:44:10,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of TerraSky Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:44:00,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of GMO Payment Gateway,Inc",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:59,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of INTERTRADE Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:58,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Systems Engineering Consultants Co.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:55,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of CERES INC,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:52,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of MEDIA DO Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:51,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Broadleaf Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:44,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of JADE GROUP,Inc",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:41,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of KURARAY CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:39,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of TORIDOLL Holdings Corporation,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:34,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of AEON REIT Investment Corporation,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:32,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of SKYLARK HOLDINGS CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:31,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of NEXTAGE Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:30,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of SHINDEN HIGHTEX CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:17,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of DAIKOKUTENBUSSAN CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:16,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of YKT CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:11,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of ValueCommerce Co.,Ltd",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:10,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of S-Pool,Inc",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:43:00,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of Softfront Holdings,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:42:59,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of MORINAGA MILK INDUSTRY CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:42:55,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of GNI Group Ltd,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:42:54,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of KOSHIDAKA HOLDINGS Co.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:42:51,GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of JGC HOLDINGS CORPORATION,Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+GS,both,7/30/26,07:42:50,"GOLDMAN SACHS INTERNATIONAL Announces Outstanding Short Selling Positions of PENTA-OCEAN CONSTRUCTION CO.,LTD",Gov Japan Live,1,neutral,1,general,unclear,,headline_only
+HD,both,7/30/26,08:56:27,"The Home Depot, Inc. $HD Shares Acquired by Ashton Thomas Securities LLC",American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+HD,both,7/30/26,08:55:39,"Arkadios Wealth Advisors Has $20.11 Million Position in The Home Depot, Inc. $HD",American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+HON,both,7/30/26,09:34:19,Honeywell International Gets Patent for Systems and Methods for GNSS Interference Monitoring,Broadband and Wireless Network News,1,neutral,1,product,next_quarter,,headline_only
+HON,both,7/30/26,08:31:07,Honeywell Safety Products USA Inc and Honeywell International Gain Patent for Sealed Self-retracting Lifeline,Security & Protection Patent News,1,neutral,1,product,next_quarter,,headline_only
+HON,both,7/30/26,07:44:48,Honeywell International Inc and Solstice Advanced Mat US Inc Gain Patent for Methods for Removal of Sulfur Dioxide (so2) from Trifluoroacetyl Chloride (TFAC),Chemical Patent News,1,neutral,1,product,next_quarter,,headline_only
+HON,both,7/30/26,07:44:33,Honeywell International Obtains Patent for Vehicle Thermal Management System,Automobile Patent News,1,neutral,1,product,next_quarter,,headline_only
+HON,both,7/30/26,07:28:34,Honeywell International Secures Patent for System for Vehicle Energy Visualization,Automobile Patent News,1,neutral,1,product,next_quarter,,headline_only
+HON,both,7/30/26,07:00:08,"Bernstein Adjusts Price Target on Honeywell International to $264 From $243, Maintains Market Perform Rating",MT Newswires,1,neutral,1,analyst_action,next_day,,headline_only
+HON,both,7/30/26,06:32:52,Embry-Riddle Students Take on Hydrogen-Powered Drone Tech With Honeywell Aerospace,Targeted News Service,1,neutral,1,general,unclear,,headline_only
+HON,both,7/30/26,06:30:22,"Honeywell International Obtains Patent for Apparatuses, Computer-implemented Methods, and Computer Program Products for Improved Multi-modal Optimization for Particular Control Schemes",Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,11:59:19,IBM 2026 Cost of a Data Breach Report: Key Findings,eSecurity Planet,1,neutral,1,general,unclear,,headline_only
+IBM,both,7/30/26,11:21:01,"IBM Moves Toward Quantum Advantage with Three Demonstrations of New, More Reliable Methods to Validate Results",CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+IBM,both,7/30/26,08:53:10,IBM Marks Three Quantum Computing Milestones With Research Partners,MT Newswires,1,neutral,1,general,unclear,,headline_only
+IBM,both,7/30/26,08:52:22,"One in Four Malicious Breaches are AI-Enabled, According to IBM Study",SocialBizWire,1,neutral,1,general,unclear,,headline_only
+IBM,both,7/30/26,08:45:13,Circle Buys Blockchain Patents From IBM,InvestingChannel,1,neutral,1,general,unclear,,headline_only
+IBM,both,7/30/26,08:07:17,IBM buys research lab to strengthen quantum computing business,Technology Times (Nigeria),1,neutral,1,general,unclear,,headline_only
+IBM,both,7/30/26,08:01:09,INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of International Business Machines Corporation - IBM,PR Newswire,1,neutral,1,general,unclear,,headline_only
+IBM,both,7/30/26,07:54:06,IBM's Record Stock Crash Rattles Software Sector,News Ghana,1,neutral,1,general,unclear,,headline_only
+IBM,both,7/30/26,07:43:42,IBM Granted United States Patent for Computer-based Management of Accident Prevention in Autonomous Vehicles,Automobile Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,07:43:25,IBM Gets Patent for Leading Vehicle Braking Detection,Automobile Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,07:36:24,IBM Submits Chinese Patent Application for Control of Reactive Power Derivation and Import,Electrical Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,07:27:47,IBM Granted United States Patent for Product Design Generator,Electrical Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,07:27:40,IBM and University of Illinois Obtain Patent for Privacy-preserving Decentralized Multi-party Netting,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,07:27:25,IBM Gains Patent for Context Disambiguation Using Deep Neural Networks,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,07:27:19,IBM and HashiCorp Gains Patent for Security Configuration Optimizer Systems and Methods,Security & Protection Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,07:26:50,IBM Gains Patent for Demultiplexing Storage Volume Boundaries Within Virtual Storage Block Device,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,07:26:04,IBM Granted Patent for Configuring a Fault-sensing Ring Oscillator Circuit,Electronics Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,07:06:13,IBM Seeks Patent for Air Gap Structures in Interconnects with Top Vias,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:32:47,IBM Obtains Patent for Quantum Calculating Thermalization Rate and Boltzmann Sampling,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:32:44,IBM Gets Patent for Reasoning with Real-valued First Order Logic and Probability Intervals,Business and Commerce Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:32:41,IBM Granted Patent for Enhancing Silent Features with Adversarial Networks for Improved Model Versions,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:32:37,IBM Granted Patent for Dynamic Fact Contextualization in Support of Artificial Intelligence (AI) Model Development,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:32:34,"IBM Obtains Patent for Scalable, Optimal Retiming of Multi-clocked Netlists",Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:32:17,IBM Granted Patent for Published Content Protection,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:32:09,IBM Granted United States Patent for Determining Device Assistant Manner of Reply,Measurement & Testing Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:32:03,IBM Secures Patent for Generating a View of a Dataset in a Data Lakehouse Based on User Intent,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:31:53,IBM Gains Patent for Discovering a Schema for a Data Lakehouse by Identifying the Primary and Foreign Keys,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:31:44,IBM Granted Patent for Hardware-based Trace Assist Unit,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:31:41,IBM Granted Patent for Replicating Data with a Data Orchestrator,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:31:32,IBM Obtains Patent for Managing Distributed Processes,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:31:28,IBM Obtains Patent for Affinity Data System for Data Management,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:31:00,IBM Secures Patent for Fast Modular Multiplication of Large Integers,Information Technology Patent News,1,neutral,1,product,next_quarter,,headline_only
+IBM,both,7/30/26,06:11:47,IBM Swapped Its AI Scoreboard For A Quantum One,Trefis,1,neutral,1,general,unclear,,headline_only
+JNJ,both,7/30/26,09:31:39,Johnson & Johnson Advances Cancer and Immunology Treatments With Major Biotech Deals,Benzinga Lightning Feed,1,neutral,1,general,unclear,,headline_only
+JNJ,both,7/30/26,09:21:58,Johnson & Johnson (JNJ) is a Top-Ranked Momentum Stock: Should You Buy?,Zack's Commentary,1,neutral,1,general,unclear,,headline_only
+JNJ,both,7/30/26,07:48:00,Johnson & Johnson Announces Collaboration with Sail Biomedicines to Advance in vivo CAR-T Programs and Transform Autoimmune Disease Through Immune Reset,ENP Newswire,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,12:41:53,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,12:27:42,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,12:16:47,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,12:13:45,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,12:10:43,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,12:08:56,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,12:02:42,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,11:57:58,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,11:50:34,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,11:49:35,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,11:45:09,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,11:39:21,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,11:38:25,"LIVE MARKETS-With scant Fed clues, JPMorgan makes a rate call",Reuters News,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,11:29:06,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,11:24:09,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,11:21:03,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,10:57:40,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,10:30:44,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,10:20:51,FWP - JPMORGAN CHASE & CO,Form FWP,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,10:20:22,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,10:16:42,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,10:15:11,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:56:29,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:34:31,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:22:56,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:21:55,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:19:28,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:18:33,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:18:06,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:09:38,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:09:05,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:07:01,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:06:36,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:04:59,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:04:40,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:02:05,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,09:01:51,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:58:54,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:58:44,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:57:49,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:57:11,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:51:18,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:47:28,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:46:14,FWP - JPMORGAN CHASE & CO,Form FWP,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:44:01,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:27:37,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:27:29,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:26:45,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:26:44,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:25:56,JPMorgan Chase Bank Gets Patent for Systems and Methods for Using Mobile Wallets as User Identifiers,Retail & Household Patent News,1,neutral,1,product,next_quarter,,headline_only
+JPM,both,7/30/26,08:25:47,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:25:24,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:24:07,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:23:00,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:22:56,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:22:01,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:21:58,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:21:41,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:20:32,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:20:12,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:19:30,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:19:24,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:18:48,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:18:12,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:17:30,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:17:27,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:16:57,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:16:35,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:16:06,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:15:19,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:15:08,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:14:08,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:13:56,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:13:06,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:11:54,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:11:03,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,08:08:40,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:42:06,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:37:30,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:37:08,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:34:54,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:30:12,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:29:29,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:27:07,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:24:19,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:23:40,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:21:53,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:20:26,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:19:21,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,07:11:33,424B2 - JPMORGAN CHASE & CO,,1,neutral,1,general,unclear,,headline_only
+JPM,both,7/30/26,06:33:10,JPMorgan Chase Bank Granted Patent for Method and System for Dynamic Request for Quotation Pricing Using Reinforcement Learning and Symbolic Regression,Business and Commerce Patent News,1,neutral,1,product,next_quarter,,headline_only
+JPM,both,7/30/26,06:32:56,JPMorgan Chase Bank Granted Patent for Zero-knowledge Distributed Ledgers with Confidential Assets and Inter-asset Auditing Capabilities,Tools and Machinery Patent News,1,neutral,1,product,next_quarter,,headline_only
+KO,both,7/30/26,10:47:49,Telynet and The Coca-Cola Company Drive Distribution Digitalization in the United States with ReDI®,CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+KO,both,7/30/26,10:14:36,"The ""Coca-Cola"" of Italian monks: the recipe for a long-lost elixir surfaces after more than a century",CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+KO,both,7/30/26,10:13:16,"Drank a bottle of Coca-Cola, was poisoned, suffered acute gastroenteritis, and will be compensated",CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+KO,both,7/30/26,09:51:14,4 - COCA COLA CO,,1,neutral,1,general,unclear,,headline_only
+KO,both,7/30/26,08:27:14,Was Florentine friars’ fatigue-fighting elixir a precursor to Coca-Cola? [Yerepouni Daily News (Lebanon)],Yerepouni Daily News (Lebanon),1,neutral,1,general,unclear,,headline_only
+MRK,both,7/30/26,08:54:40,"ADAR1 Capital Management LLC Has $378,000 Holdings in Merck & Co., Inc. $MRK",American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+MRK,both,7/30/26,07:49:01,Merck Announces Fourth-Quarter 2026 Dividend,ENP Newswire,1,neutral,1,capital_return,next_week,,headline_only
+MRK,both,7/30/26,07:47:14,Bacterial Vaginosis: Merck Manuals Shares What Women and Partners Need to Know,ENP Newswire,1,neutral,1,general,unclear,,headline_only
+MRK,both,7/30/26,07:11:14,Merck-Backed Lab Gets $8.5 Million to Fast-Track a Vaccine for a Rapidly Spreading Ebola Outbreak,Benzinga Lightning Feed,1,neutral,1,general,unclear,,headline_only
+MRK,both,7/30/26,07:05:33,The Feline Veterinary Medical Association and Merck Animal Health Celebrate Future Leaders in Feline Medicine,EIN Presswire,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,12:41:42,"Market movers: Chipotle, Carvana, Microsoft, Meta…",Proactive Investors,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,12:33:16,"Posting_Id: 142654849, Software Support Services 2.0 - Microsoft; Operating System Software, Database Management Software, Quantity: 15",Indian Government Tenders (India),1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,12:26:57,Microsoft Just Flipped the AI Spending Narrative Overnight,MarketBeat,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,12:15:54,Microsoft Will Combine Copilot Tools Into a Single Super App Soon,"Mac Observer, The",1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,12:14:05,Microsoft Target of Unusually Large Options Trading (NASDAQ:MSFT),MarketBeat Instant Alerts,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,12:11:25,Analysts set Microsoft stock price target,Finbold,1,neutral,1,analyst_action,next_day,,headline_only
+MSFT,both,7/30/26,12:09:55,Microsoft stock just added 8% in 4 hours; Here’s why,Finbold,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,12:09:02,Microsoft plans to fix Windows 11's slow context menus with major overhaul designed to improve performance and reliability: New compact menu design will be faster and user customizable,Windows Central,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,11:56:37,Microsoft may be making AI work — finally boosting its share price,ITpro.com (UK),1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,11:17:47,Microsoft Unveils Project Perception and New AI Cyber Model for Enterprise Security,Channel Insider,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,11:10:23,Microsoft introduces its first agent-powered cybersecurity model and Project Perception AI patching system - can it avoid making the same mistakes OpenAI made? [T-break Tech (Middle East)],T-break Tech (Middle East),1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,11:00:45,Xbox down: Microsoft explains bizarre outage – and prompts concerns about the future,"Independent, The (Online) (UK)",1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,10:33:13,The two sides of capital spending in AI: Microsoft rises 13% on Wall Street while Meta plummets 9%,CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,10:26:58,"Microsoft is betting on a super app for Copilot featuring intelligent chat, coding, and autonomous agents",CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,10:15:40,US STOCKS-Wall St advances as Microsoft results ease AI spending fears,Reuters News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,10:13:35,"Nadella confirms Microsoft's 'super app': Copilot will integrate chat, code, and AI agents this year",CE Noticias Financieras (Latin America),1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,10:04:39,Microsoft Answers the Capex Question - And the Stock Finally Responds,Zack's Commentary,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,10:01:49,Microsoft’s $15 Billion Capex Cut Isn’t a Cut at All,Benzinga Lightning Feed,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,09:40:16,Microsoft Azure crosses $100B mark as growth hits four-year high,FierceTelecom,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,09:35:18,Microsoft Corp. (NASDAQ: MSFT) Near Top of Volume Charts in Thursday Trading,NetworkNewsWire (NNW),1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,09:33:05,Microsoft Challenges OpenAI and Anthropic With AI Strategy,WinBeta,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,09:13:40,"BRIEF-Microsoft Ponders Open-Weight Ai As China Models Gain Ground, Nikkei Reports",Reuters News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,09:01:38,Microsoft's Massive AI Spending Is Paying Off. Its Stock Is Soaring,International Business Times,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:56:07,"Cogent Strategic Wealth LLC Purchases 1,685 Shares of Microsoft Corporation $MSFT",American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:55:40,Microsoft Corporation $MSFT Stock Position Lessened by First National Bank of Hutchinson,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:55:17,Canal Insurance CO Boosts Stock Position in Microsoft Corporation $MSFT,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:52:33,"Checchi Capital Advisers LLC Buys 2,715 Shares of Microsoft Corporation $MSFT",American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:52:20,Microsoft Corporation $MSFT Holdings Lowered by Fortress Financial Solutions LLC,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:33:07,Microsoft’s Stock Rises 10% On Strong Financial Results,Baystreet US News Alerts,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:32:40,LIVE MARKETS-Upbeat Microsoft report lifts US indexes,Reuters News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:23:05,"Lam Research, Xerox, FormFactor, Microsoft And Other Big Stocks Moving Higher On Thursday",Benzinga Lightning Feed,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:20:25,Microsoft Teams' upcoming update will make clicking message links a lot less annoying [ICT Monitor Worldwide],ICT Monitor Worldwide,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:18:10,"Why Microsoft Stock is Up, Meta Platforms Down",Baystreet US News Alerts,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:15:49,"Microsoft Confirms Copilot ‘Super App’ Plans, It’s Coming This Year",WinBeta,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:12:18,US STOCKS-Wall St advances as Microsoft results ease AI spending fears,Reuters News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:10:51,"Tender Invited For Software Support Services 2.0 - Microsoft; Operating System Software, Database Management Software, ##quantity: 15 ## [Al Bawaba Business]",Al Bawaba Business,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,08:10:22,Microsoft posts record FY26 results as cloud and AI businesses power 18 per cent growth,Indiantelevision.com,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,07:59:15,Microsoft commits $130 billion-plus to new data centre leases amid AI boom,Business Line (India),1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,07:47:36,Own Microsoft Office for your Mac for a single $42.97 payment [ICT Monitor Worldwide],ICT Monitor Worldwide,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,07:36:58,XBOX Project Helix LIVE: Console price fears from renowned Microsoft insider,,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,07:36:24,BUZZ-Street View: Microsoft reaps AI rewards without the usual price tag,Reuters News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,07:16:27,"Microsoft Confirms Whiteboard Retirement Timeline, Legacy Content Will Be Deleted",WinBeta,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,07:12:47,Xbox keeps sinking while Microsoft's AI business keeps soaring,Techspot,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,07:09:33,State Intellectual Property Office of China Receives Microsoft Technology Licensing Patent Application for Phase Interpolator (pi) with Clamp Circuit to Limit Operation to Range with Optimal Integral Nonlinearity and Related Methods,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,07:08:46,Microsoft Technology Licensing Submits Patent Application for System and Method for Performing Query Operations on Run Length Encoded Data,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,07:08:45,Microsoft Technology Licensing Submits Chinese Patent Application for Apparatus and Method for Prime Field Modular Reduction,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,07:08:24,US STOCKS-Wall St set for higher open as Microsoft's results temper some AI jitters,Reuters News,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,07:06:29,World Champions Crowned at Pearson’s Certiport 2026 Microsoft Office Specialist Competition [ICT Monitor Worldwide],ICT Monitor Worldwide,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,07:05:35,State Intellectual Property Office of China Publishes Microsoft Technology Licensing Patent Application for Interception Filter Entries Using Partial Vectors,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,07:01:54,Microsoft's $41 Billion AI Bet Just Cleared a Major Test as Azure Tops $100 Billion,CoinCodex,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,06:35:31,Microsoft Technology Licensing Granted United States Patent for Micromirror Resonance Supression Using Configurable Filter,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,06:35:10,XBOX Project Helix LIVE: Console price fears from renowned Microsoft insider,,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,06:32:38,Microsoft Technology Licensing Gets Patent for Auto-suggestion with Rich Objects,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,06:32:20,Microsoft Technology Licensing Granted Patent for Techniques for Detecting Anomalies in Data Files,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,06:31:56,Microsoft Technology Licensing Obtains Patent for Combining Reasoning and Explicit Graph Walks in Multi-domain Queries,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,06:31:46,Microsoft Technology Licensing Secures Patent for Hierarchical Multi-layer Action Store for Agent-based Task Execution,Software Patent News,1,neutral,1,product,next_quarter,,headline_only
+MSFT,both,7/30/26,06:23:21,Microsoft deploys agentic security system to combat AI-powered attacks [ITWeb],ITWeb,1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,06:09:41,Meta Shrs Plummet ~9% Premarket; Microsoft Rallies 8%,AASTOCKS (HK),1,neutral,1,general,unclear,,headline_only
+MSFT,both,7/30/26,06:03:06,MICROSOFT FILES CURRENT REPORT [U.S. Fed News],U.S. Fed News,1,neutral,1,general,unclear,,headline_only
+NKE,both,7/30/26,09:38:02,Nike Secures Patent for Sole Structures And/or Articles of Footwear Having Expandable Lugs for Engaging Footwear Components,Footwear Patent News,1,neutral,1,product,next_quarter,,headline_only
+NKE,both,7/30/26,09:36:52,State Intellectual Property Office of China Receives Nike Innovate CV Patent Application for Sole Structure for Article of Footwear,Footwear Patent News,1,neutral,1,product,next_quarter,,headline_only
+NKE,both,7/30/26,09:36:50,State Intellectual Property Office of China Publishes Nike Innovate CV Patent Application for Article of Footwear Including Sole Structure,Footwear Patent News,1,neutral,1,product,next_quarter,,headline_only
+NKE,both,7/30/26,07:14:05,Nike Granted United States Patent for Knitted Component with Cushioning Structure,Tools and Machinery Patent News,1,neutral,1,product,next_quarter,,headline_only
+NVDA,both,7/30/26,12:14:59,Nvidia Corporation (NVDA) Stock: Linked to Hut 8’s $19.6 Billion AI Data Center Lease Agreement,Blockonomi,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,12:09:00,"Google could build more AI accelerators than Nvidia sells in 2028, analyst claims — could push the company to use Intel Foundry to meet its goals",Tom's Hardware,1,neutral,1,analyst_action,next_day,,headline_only
+NVDA,both,7/30/26,11:59:52,How NVIDIA’s AI‑Infrastructure Push Drives Stock Volatility and Hidden Growth Risks,AktienSensor.com (Germany),1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,11:52:22,"Posting_Id: 142664207, ABC: Php 195,000.00 Technical Laptop Minimum Specifications: •Processor: Intel Core i7-13650HX, Intel Core i7-13700H, AMD Ryzen 7 7840HS, AMD Ryzen 7 8845HS, or equivalent •Graphics: Dedicated NVIDIA GeForce RTX 4060 Laptop GPU w",Indian Government Tenders (India),1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,10:05:04,NVIDIA Under Pressure But AI Spending Isn't Slowing: Buy the Dip?,Zack's Commentary,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,09:54:31,Nvidia (NVDA) Reportedly Anchors Hut 8’s (HUT) $19.6 Billion AI Lease Bet,InvestingChannel,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,09:03:50,"Micron Technology, Aura Minerals, and Nvidia make up the top 3 most traded BDRs on the B3 in June",Brazil Business News,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,08:55:49,Audent Global Asset Management LLC Has $7.12 Million Stock Holdings in NVIDIA Corporation $NVDA,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,08:54:52,Freemont Management S.A. Has $32.89 Million Position in NVIDIA Corporation $NVDA,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,08:53:58,Future Fund LLC Has $4.83 Million Holdings in NVIDIA Corporation $NVDA,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,08:53:32,NVIDIA Corporation $NVDA is California Public Employees Retirement System’s 2nd Largest Position,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,08:52:38,Dorsey Wright & Associates Has $25.49 Million Position in NVIDIA Corporation $NVDA,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,08:52:02,Bartlett & CO. Wealth Management LLC Has $207.54 Million Holdings in NVIDIA Corporation $NVDA,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+NVDA,both,7/30/26,08:34:26,Is It Worth Investing in Nvidia (NVDA) Based on Wall Street's Bullish Views?,Zack's Commentary,1,neutral,1,general,unclear,,headline_only
+PG,both,7/30/26,08:55:45,Procter & Gamble Company (The) $PG Position Raised by Arkadios Wealth Advisors,American Banking and Market News,1,neutral,1,general,unclear,,headline_only
+PG,both,7/30/26,08:18:06,Procter & Gamble Posts Mixed Financial Results,Baystreet US News Alerts,1,neutral,1,general,unclear,,headline_only
+PG,both,7/30/26,07:45:10,The Procter & Gamble Co and Procter & Gamble Secure Patent for Solid Dissolvable Compositions,Chemical Patent News,1,neutral,1,product,next_quarter,,headline_only
+PG,both,7/30/26,07:29:10,BUZZ-Street View: Not out of the wash yet but signs are emerging for P&G,Reuters News,1,neutral,1,general,unclear,,headline_only
+PG,both,7/30/26,06:04:09,PROCTER & GAMBLE FILES CURRENT REPORT [U.S. Fed News],U.S. Fed News,1,neutral,1,general,unclear,,headline_only
+SHW,both,7/30/26,09:38:04,"BNP Paribas Adjusts Sherwin-Williams Price Target to $360 From $345, Maintains Neutral Rating",MT Newswires,1,neutral,1,analyst_action,next_day,,headline_only
+WMT,both,7/30/26,10:40:25,How Walmart uses AI to limit weather disruptions in its supply chain,Retail Dive,1,neutral,1,general,unclear,,headline_only
+WMT,both,7/30/26,10:03:14,"Walmart leapfrogs EV charging competitors with rapid buildout [The Buffalo News, N.Y.]",Buffalo News (NY),1,neutral,1,general,unclear,,headline_only
+AAPL,headline_name,7/30/26,08:10:48,"Nasdaq rebounds hard as Microsoft, Apple and chipmakers rally",Proactive Investors,1,bullish,2,general,unclear,rally,headline_only
+MSFT,headline_name,7/30/26,10:51:10,Wall Street opens in the green as Microsoft surges over 14%,CE Noticias Financieras (Latin America),1,bullish,2,general,unclear,surges,headline_only
+MSFT,headline_name,7/30/26,08:10:18,"Nasdaq Futures Surge on Microsoft Buzz, Semiconductor Gains",Schaeffer's Daily Contrarian,1,bullish,2,general,unclear,surge,headline_only
+AAPL,headline_name,7/30/26,07:06:56,"AMZN Globe says Apple, rivals see Kimi K3 stir excitement",Canada StockWatch,1,neutral,1,general,unclear,,headline_only
+AAPL,headline_name,7/30/26,07:06:44,"MSFT Globe says Apple, rivals see Kimi K3 stir excitement",Canada StockWatch,1,neutral,1,general,unclear,,headline_only
+AMZN,headline_name,7/30/26,12:10:01,Shopping on Amazon or Walmart? Why you shouldn't rely on their AI assistants just yet,Tom's Guide,1,neutral,1,general,unclear,,headline_only
+AMZN,headline_name,7/30/26,09:39:27,"Walmart, Amazon Let Questionable 'Made in USA' Claims Persist, Report Says",MT Newswires,1,neutral,1,general,unclear,,headline_only
+AMZN,headline_name,7/30/26,09:20:33,"Amazon Great Freedom Sale 2026: Phones revealed, but prices are still missing [PC Quest (India)]",PC Quest (India),1,neutral,1,general,unclear,,headline_only
+CSCO,headline_name,7/30/26,12:09:10,Cisco-Backed Startup Eliyan Raises $145M at $1B Valuation to Fix AI’s Data Bottleneck,Ventureburn,1,neutral,1,general,unclear,,headline_only
+MSFT,headline_name,7/30/26,11:02:06,Nvidia (NVDA) Could Backstop $250 Billion for OpenAI. Where Does That Leave Microsoft (MSFT)?,InsiderMonkey,1,neutral,1,general,unclear,,headline_only
